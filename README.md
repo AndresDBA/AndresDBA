@@ -1,5 +1,5 @@
 <h2>👋Hi there, my name is Andres David Buitrago</h2>
-### I'm a junior software developer {👨🏽‍💻}
+
 - 💼 I'm available for remote work.
 
 
