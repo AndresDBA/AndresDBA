@@ -1,5 +1,6 @@
 <head>
 <h1 align="center">👋Hi there, my name is Andres David Buitrago</h1>
+  <title>AndresDBA</title>
 </head>
 <body>
 <h2>I'm a junior software developer {👨🏽‍💻}</h2>
