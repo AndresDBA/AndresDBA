@@ -9,7 +9,7 @@
   <h1>👨🏽‍💻 Skills</h1>
   <hr>
   <h1>🤝🏻 Connect with Me</h1>
-     - 🔭 [Linkedin](https://www.linkedin.com/in/andres-david-buitrago-arana)
+ 
   <hr>
 </body>
 
