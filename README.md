@@ -37,6 +37,8 @@ Within the IT world I don't have work experience, but I consider myself a respon
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<a href="#"><img src="https://img.icons8.com/windows/50/000000/netbeans.png" alt="Netbeans" title="Netbeans"></a>
+![]()
 
 
 #### Office:
