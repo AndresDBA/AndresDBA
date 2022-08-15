@@ -22,7 +22,7 @@ Within the IT world I don't have work experience, but I consider myself a respon
     <a href="#"><img src="https://img.icons8.com/color/50/000000/html-5--v1.png" alt="HTML" title="HTML"></a>
     <a href="#"><img src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS" title="CSS"></a>
     <a href="#"><img src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="Javascrript" title="Javascrript"></a>
-    <a href="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+    <a href="#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" title="Python"></a>
    
 
 </p>
