@@ -57,6 +57,5 @@ Within the IT world I don't have work experience, but I consider myself a respon
 
 
 #### Let's connect:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:adbuitrago24@misena.edu.co)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresdba/)
 
