@@ -33,19 +33,17 @@ Within the IT world I don't have work experience, but I consider myself a respon
 
 #### Tools:
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-<a href="#"><img src="https://img.icons8.com/windows/50/000000/netbeans.png" alt="Netbeans" title="Netbeans"></a>
-![]()
+<a href="#"><img src="" alt="" title=""></a>
+<a href="#"><img src="" alt="" title=""></a>
+<a href="#"><img src="" alt="" title=""></a>
+
 
 
 #### Office:
 
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+<a href="#"><img src="https://img.icons8.com/color/50/ms-excel.png" alt="EXCEL" title="EXCEL"></a>
+<a href="#"><img src="https://img.icons8.com/color/50/ms-word.png" alt="WORD" title="WORD"></a>
+<a href="#"><img src="https://img.icons8.com/color/50/ms-powerpoint--v1.png" alt="POWERPOINT" title="POWERPOINT"></a>
 
 
 -------
