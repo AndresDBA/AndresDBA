@@ -49,8 +49,8 @@ Within the IT world I don't have work experience, but I consider myself a respon
 #### My Streak Stats
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=AndresDBA&hide=stars&show_icons=true&theme=dark&line_height=40">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresDBA&count_private=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndresDBA&hide=stars&show_icons=true&theme=tokyonight &line_height=40">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresDBA&count_private=true&theme=tokyonight ">
 
 </p>
 
