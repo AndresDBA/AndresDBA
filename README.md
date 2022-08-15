@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Andres David 👨‍💻 </h1>
 
 -------
-![](https://komarev.com/ghpvc/?username=tamaraantonella&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=AndresDBA&color=ff69b4)
 
 ### Fullstack Dev Student
 I started as a self-taught on platforms such as freeCampCode and SoloLearn. Now I'm a Fullstack Dev student (Henry).
