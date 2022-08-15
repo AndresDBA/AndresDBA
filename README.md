@@ -36,6 +36,8 @@ Within the IT world I don't have work experience, but I consider myself a respon
 <a href="#"><img src="https://img.icons8.com/color/50/git.png" alt="GIT" title="GIT"></a>
 <a href="#"><img src="https://img.icons8.com/color/50/github--v1.png" alt="GITHUB" title="GITHUB"></a>
 <a href="#"><img src="https://img.icons8.com/color/50/visual-studio-code-2019.png" alt="VISUALSTUDIOCODE" title="VISUALSTUDIOCODE"></a>
+<a href="#"><img src="https://img.icons8.com/color/50/visual-studio--v2.png" alt="VISUALSTUDIO" title="VISUALSTUDIO"></a>
+<a href="#"><img src="https://img.icons8.com/fluency/50/mysql-logo.png" alt="MYSQL" title="MYSQL"></a>
 <a href="#"><img src="https://img.icons8.com/windows/50/netbeans.png" alt="NETBEANS" title="NETBEANS"></a>
 
 
