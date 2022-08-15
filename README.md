@@ -8,9 +8,6 @@ I started as a self-taught on platforms such as freeCampCode and SoloLearn. Now 
 
 
 
-###
-<a href = "https://www.codewars.com/users/tamaraantonella"><img src="https://www.codewars.com/users/tamaraantonella/badges/small"></a>
-
 -------
 
 
@@ -52,8 +49,8 @@ Within the IT world I don't have work experience, but I consider myself a respon
 #### My Streak Stats
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=tamaraantonella&hide=stars&show_icons=true&theme=dracula&line_height=40">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamaraantonella&count_private=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndresDBA&hide=stars&show_icons=true&theme=dracula&line_height=40">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresDBA&count_private=true&theme=dracula">
 
 </p>
 
@@ -62,7 +59,4 @@ Within the IT world I don't have work experience, but I consider myself a respon
 #### Let's connect:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:tamarafrazzetta@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamara-antonella-f-5756939b/)
-<!---
-tamaraantonella/tamaraantonella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
