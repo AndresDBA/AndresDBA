@@ -34,7 +34,7 @@ Within the IT world I don't have work experience, but I consider myself a respon
 #### Tools:
 
 <a href="#"><img src="https://img.icons8.com/color/50/git.png" alt="GIT" title="GIT"></a>
-<a href="#"><img src="https://img.icons8.com/ios-filled/50/github.png" alt="GITHUB" title="GITHUB"></a>
+<a href="#"><img src="https://img.icons8.com/color/50/github--v1.png" alt="GITHUB" title="GITHUB"></a>
 <a href="#"><img src="https://img.icons8.com/color/50/visual-studio-code-2019.png" alt="VISUALSTUDIOCODE" title="VISUALSTUDIOCODE"></a>
 <a href="#"><img src="https://img.icons8.com/windows/50/netbeans.png" alt="NETBEANS" title="NETBEANS"></a>
 
